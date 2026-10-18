@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\bin\Debug\net8.0\PricingService.Api.deps.json
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\bin\Debug\net8.0\PricingService.Api.dll
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\bin\Debug\net8.0\PricingService.Api.pdb
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\PricingService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfo.cs
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\PricingService.Api.dll
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\refint\PricingService.Api.dll
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\PricingService.Api.pdb
+C:\Users\HP\Downloads\PricingServiceSolution_fixed\sol_fixed\PricingService.Api\obj\Debug\net8.0\ref\PricingService.Api.dll
